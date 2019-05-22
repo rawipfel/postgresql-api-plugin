@@ -10,6 +10,7 @@
         <relativePath/>
     </parent>
 
+    <groupId>io.jenkins.plugins</groupId>
     <artifactId>postgresql-api</artifactId>
     <version>42.2.5-SNAPSHOT</version>
     <packaging>hpi</packaging>
